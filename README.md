@@ -2,6 +2,8 @@
 
 A creative prompt generator that provides art, music, writing, and encouraging prompts with a beautiful, interactive interface.
 
+![screenshot](/sample1.png)
+
 ## Features
 
 - **Multiple Prompt Types**:
